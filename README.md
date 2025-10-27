@@ -84,4 +84,3 @@ Siga os passos abaixo para configurar e rodar o projeto em seu ambiente local.
 ## 📂 Estrutura de Pastas
 
 O projeto está organizado em uma estrutura de monorepo simples:
-
